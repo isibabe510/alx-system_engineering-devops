@@ -1,1 +1,1 @@
-show current directory contents
+it  creates a directory named
