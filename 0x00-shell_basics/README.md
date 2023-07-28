@@ -1,1 +1,1 @@
-from working diectory to the user’s home directory
+show current directory using long format
