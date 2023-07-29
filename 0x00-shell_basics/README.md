@@ -1,1 +1,1 @@
-it delete My first directory
+changes the working directory to the previous one
