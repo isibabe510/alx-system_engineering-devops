@@ -1,1 +1,1 @@
-it Move the file betty from one place another
+it delete the file betty
